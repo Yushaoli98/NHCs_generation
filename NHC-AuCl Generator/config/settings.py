@@ -1,0 +1,11 @@
+CSV_FILE = "data/NHC_input.csv"
+OUTPUT_DIR = "output/complexes"
+FAILED_DIR = "output/failed_structures"
+FAILED_CSV = "output/failed_NHCs.csv"
+XTB_EXECUTABLE = "/path/to/xtb"
+AU_C_DIST = 2.00
+CL_DIST = 2.32
+UFF_STEPS = 300
+BUR_RADIUS = 3.5
+NUM_DIRS = 600
+DEBUG_MODE = True
